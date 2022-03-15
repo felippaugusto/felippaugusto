@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working at house
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🔭 i'm constantly stuying 
+- 🌱 I’m currently learning english, PHP and stuying in technical high school
 - I intend to advance more and more
-
-- 05/03/20222 - i'm currently tying to learn PHP, i learned a lot about HTML, CSS and JavaScript(DOM)
+- currently i already learned HTML, CSS, JS(DOM)
