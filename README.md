@@ -1,7 +1,8 @@
 ### Hello 👋
 
 - Completed vocational high school education in computer science at CEEP Cascavel PR.
-- 
+- Currently studying software engineering at Fag Cascavel PR.
+- My work focuses on web development, using languages ​​such as HTML, CSS, JS, SQL (experience with Oracle, Postgres, MySQL, and SQL Server), NodeJS, and RESTful APIs.
 - I am currently working at the company I.riedi in the IT department. I share my experiences and studies on my LinkedIn below.
 
 <div align="center" dir="auto">
