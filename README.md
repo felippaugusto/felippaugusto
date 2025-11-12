@@ -1,10 +1,7 @@
 ### Hello 👋
 
-
-- 🔭 i'm constantly stuying 
-- 🌱 I am currently in the fourth year of technical high school learning and studying information technology
-- I finished my web development final. My course completion project website used HTML, CSS and JS on the front end, PHP on the back end and mysql was used as the database.
-- I intend to advance more and more
+- Completed vocational high school education in computer science at CEEP Cascavel PR.
+- 
 - I am currently working at the company I.riedi in the IT department. I share my experiences and studies on my LinkedIn below.
 
 <div align="center" dir="auto">
